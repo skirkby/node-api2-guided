@@ -13,6 +13,7 @@ module.exports = {
   addMessage,
 };
 
+
 function find(query) {
   const { page = 1, limit = 2, sortby = 'id', sortdir = 'asc' } = query;
   const offset = limit * (page - 1);
