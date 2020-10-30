@@ -35,3 +35,4 @@ Please follow along as the instructor builds the API step by step.
 - ./server.js
 - ./hubs/hubs-router.js
 - ./messages/messages-router.js
+- ./Express Router.mp4
